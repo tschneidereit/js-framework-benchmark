@@ -1,0 +1,19 @@
+{
+    "name": "js-framework-benchmark-dodrio",
+    "version": "1.0.0",
+    "description": "Benchmark for Dodrio",
+    "license": "ISC",
+    "js-framework-benchmark": {
+      "frameworkVersion": "0.1.0"
+    },
+    "scripts": {
+      "build-prod": "echo This is a no-op for now"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/krausest/js-framework-benchmark.git"
+    },
+    "devDependencies": {
+    }
+  }
+  
